@@ -1,7 +1,7 @@
 name: Humilis Studios
 favicon: null
-layout_spectrum: 0.46664710878394544
-typography_spectrum: 0.00014962535351514816
+layout_spectrum: 1
+typography_spectrum: 0.11093
 title: The Photo Experiment
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.6395335122942924
+    - '#13120d'
+    - '#babca4'
+    - '#4d3a1a'
+    - '#7a7b5b'
+    - '#f6f0c1'
+  brandStrength: 0.1875
   lightness: 0.06534762657247484
   saturation: 0.10205104714259505
   rhythmicContrast: 0.7921532529871911
