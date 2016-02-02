@@ -4,7 +4,7 @@
         <description><![CDATA[The Photo Experiment]]></description>
         <link>https://thegrid.ai/humilis-studios/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 03:04:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 03:05:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/humilis-studios/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[DC Cherry Blossom Festival 2015]]></title>
@@ -12,13 +12,6 @@
             <link>http://humilisstudios.com/portfolio/destinations/dc-cherry-blossom-festival-2015</link>
             <guid isPermaLink="false">d4a7f7ee-8f42-4e20-a4d6-cd713d6ec31b</guid>
             <pubDate>Tue, 02 Feb 2016 00:55:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Testing 1,2,3]]></title>
-            <description><![CDATA[<article><h1>Testing 1,2,3</h1><p>Mass Upload Test</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e7bfa0f64633110df5eefdc6fd909323c7ccbf02.jpg"></article>]]></description>
-            <link>https://thegrid.ai/humilis-studios/testing-123/index.html</link>
-            <guid isPermaLink="false">f73a8749-9724-411b-b6bc-d88da9ceac4c</guid>
-            <pubDate>Fri, 29 Jan 2016 23:12:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
